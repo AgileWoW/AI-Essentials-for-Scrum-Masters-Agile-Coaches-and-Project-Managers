@@ -6,6 +6,8 @@ The "AI Essentials" course is a highly interactive, hands-on workshop designed s
 
 Participants will learn to integrate AI as a "thinking partner" to enhance team facilitation, foster transparency, and support broader organizational change. The learning experience is grounded in a real-world narrative featuring "Rose," a practitioner actively navigating AI adoption.
 
+Read more details - [AI Essentials for Scrum Masters](https://agileleadershipdayindia.org/trainings/ai-scrum-master.html)
+
 ## 🎯 Is This Workshop Right for You?
 If you are a Scrum Master, Agile Coach, or Project Manager, review the checklist below:
 
@@ -16,6 +18,8 @@ If you are a Scrum Master, Agile Coach, or Project Manager, review the checklist
 - [ ] Do you want to lead your organization through the quiet shift in AI roles and responsibilities?
 
 *If you checked ANY of the boxes above, this workshop is designed for you.*
+
+Read more details - [AI Essentials for Scrum Masters](https://agileleadershipdayindia.org/trainings/ai-scrum-master.html)
 
 ## 💡 Key Learning Objectives
 Upon successful completion, participants will be able to:
@@ -33,11 +37,15 @@ Upon successful completion, participants will be able to:
 5. **Your Organization & AI:** Navigating new AI roles and shifting leadership accountabilities.
 6. **AI Ethical Aspects:** Discussing critical issues like bias, deepfakes, and hallucinations.
 
+   Read more details - [AI Essentials for Scrum Masters](https://agileleadershipdayindia.org/trainings/ai-scrum-master.html)
+
 ## 🎁 What’s Included?
 * One FREE attempt at the certification exam.
 * A second FREE attempt if the first is taken within 14 days and not passed.
 * 7 PDUs/SEUs for professional credit.
 * A soft copy of the comprehensive AI Essentials reference guide.
+
+Read more details - [AI Essentials for Scrum Masters](https://agileleadershipdayindia.org/trainings/ai-scrum-master.html)
 
 ## ❓ Frequently Asked Questions
 
@@ -53,8 +61,10 @@ Upon successful completion, participants will be able to:
 **Will AI replace Scrum Masters, Agile Coaches, or Project Managers?**
 > No. AI acts as an amplifier and a "power tool" for leaders. Human strengths like ethics, empathy, and contextual judgment remain completely irreplaceable.
 
+Read more details - [AI Essentials for Scrum Masters](https://agileleadershipdayindia.org/trainings/ai-scrum-master.html)
+
 ## 👨‍🏫 Meet Your Trainer
-The course is led by **Sanjay Saini**, an AI & Agile Transformation Coach. He is dedicated to bridging the gap between human agility and AI-driven efficiency, helping organizations leverage AI to enhance decision-making and boost team productivity.
+The course is led by **[Sanjay Saini](https://www.linkedin.com/in/iamsanjaysaini/)**, an AI & Agile Transformation Coach. He is dedicated to bridging the gap between human agility and AI-driven efficiency, helping organizations leverage AI to enhance decision-making and boost team productivity.
 
 ---
 *For registration, pricing, and upcoming dates, please visit the official [Course Page](https://agileleadershipdayindia.org/trainings/ai-scrum-master.html).*
